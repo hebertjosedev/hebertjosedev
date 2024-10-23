@@ -6,7 +6,7 @@
 - :blue_book: Aprendiendo nodeJS
 - 🎮 Juego Warzone
 
-**Ultimos Proyectos **
+**Ultimos Proyectos**
 
 
 |Concesionario de autos     |Perfumes & cosmeticos |
